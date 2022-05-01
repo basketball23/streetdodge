@@ -25,7 +25,7 @@ SCORE = 0
 
 font = pygame.font.SysFont("Arial", 60)
 font_small = pygame.font.SysFont("Arial", 20)
-game_over = font.render("You Crashed!!!", True, BLACK)
+game_over = font.render("You crashed!!!", True, BLACK)
 
  
 background = pygame.image.load("./media/AnimatedStreet.png")
